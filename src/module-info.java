@@ -1,0 +1,2 @@
+module JA4Core {
+}
